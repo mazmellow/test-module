@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 ext {
-    bintrayRepo = 'maven'
+    bintrayRepo = 'TestModule'
     bintrayName = 'test-module'
 
     publishedGroupId = 'com.mazmellow.library'
@@ -15,7 +15,7 @@ ext {
 
     libraryVersion = '1.0.0'
 
-    developerId = 'Watcharat'
+    developerId = 'watcharat'
     developerName = 'Watcharat Suwannarat'
     developerEmail = 'watcharat.s@gmail.com'
 
