@@ -1,4 +1,4 @@
-package com.mazmellow.testmodule;
+package com.mazmellow.testmymodule;
 
 import org.junit.Test;
 

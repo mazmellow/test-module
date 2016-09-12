@@ -1,4 +1,4 @@
-package com.mazmellow.testmodule;
+package com.mazmellow.testmymodule;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
