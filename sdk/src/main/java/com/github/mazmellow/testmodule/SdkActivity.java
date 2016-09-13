@@ -1,4 +1,4 @@
-package com.mazmellow.testmodule.sdk;
+package com.github.mazmellow.testmodule;
 
 import android.content.Context;
 import android.content.Intent;
