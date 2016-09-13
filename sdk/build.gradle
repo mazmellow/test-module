@@ -4,7 +4,7 @@ ext {
     bintrayRepo = 'TestModule'
     bintrayName = 'test-module'
 
-    publishedGroupId = 'com.mazmellow.library'
+    publishedGroupId = 'com.github.mazmellow'
     libraryName = 'TestModule'
     artifact = 'test-module'
 
