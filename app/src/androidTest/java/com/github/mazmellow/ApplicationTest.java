@@ -1,4 +1,4 @@
-package com.mazmellow.testmodule;
+package com.github.mazmellow;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

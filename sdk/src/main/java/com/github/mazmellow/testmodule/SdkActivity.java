@@ -1,4 +1,4 @@
-package com.mazmellow.testmodule.sdk;
+package com.github.mazmellow.testmodule;
 
 import android.content.Context;
 import android.content.Intent;
@@ -15,6 +15,8 @@ public class SdkActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sdk);
+
+        //jgjldjldglkdvlkvdlkndvvdnlk
     }
 
     public static Intent buildIntent(Context context){
