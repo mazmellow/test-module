@@ -13,7 +13,7 @@ ext {
     siteUrl = 'https://github.com/mazmellow/test-module'
     gitUrl = 'https://github.com/mazmellow/test-module.git'
 
-    libraryVersion = '1.0.4'
+    libraryVersion = '1.0.5'
 
     developerId = 'watcharat'
     developerName = 'Watcharat Suwannarat'
@@ -32,7 +32,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
-        versionName "1.0.4"
+        versionName "1.0.5"
     }
     buildTypes {
         release {
